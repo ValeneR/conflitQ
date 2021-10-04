@@ -1,3 +1,4 @@
+LOCAL
 # conflitQ
 Il faut écrire
 alors j'écris
